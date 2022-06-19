@@ -1,0 +1,2 @@
+echo '#!/bin/bash'>> ALX
+echo '#!/bin/bash'>>School
